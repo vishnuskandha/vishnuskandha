@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="320" viewBox="0 0 1600 320">
+  <defs>
+    <!-- Gradient -->
+    <linearGradient id="gradRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#660000;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Animation for circuits -->
+    <linearGradient id="circuitGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff22">
+        <animate attributeName="offset" values="0;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="320" fill="url(#gradRed)" />
+
+  <!-- Circuit-like lines -->
+  <g stroke="url(#circuitGlow)" stroke-width="2">
+    <line x1="100" y1="50" x2="400" y2="50"/>
+    <line x1="1200" y1="270" x2="1500" y2="270"/>
+    <line x1="300" y1="150" x2="800" y2="150"/>
+    <line x1="900" y1="200" x2="1400" y2="200"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="50%" y="45%" font-family="Orbitron, Arial, sans-serif" font-size="72" fill="white" text-anchor="middle" alignment-baseline="middle" filter="url(#glow)">
+    Vishnu Skandha
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="70%" font-family="Orbitron, Arial, sans-serif" font-size="28" fill="#ffffffcc" text-anchor="middle" alignment-baseline="middle">
+    Smart Projects ⚡ AI ⚡ IoT ⚡ Innovation
+  </text>
+</svg>
