@@ -1,7 +1,8 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/banner.gif" width="100%" height="300">
+  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/banner-futuristic.svg" width="100%" height="320">
 </p>
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there! I'm <b>Vishnu Skandha</b></h1>
 
