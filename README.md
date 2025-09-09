@@ -1,129 +1,134 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/banner-futuristic.svg" width="100%" height="320">
+  <img src="assets/1.gif" width="1500" height="300">
 </p>
 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there! I'm <b>Vishnu Skandha</b></h1>
 
-🎓 **B.Sc. Computer Science | 3rd Semester @ SRM**  
-💻 Passionate about **AI, IoT, VLSI, Web & App Development**  
-🚀 Always exploring **tech innovations, futuristic systems, and real-world applications**  
-
----
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-red.svg" width="100%">
-
-## 🌟 About Me  
-
-Hello world! 👋  
-I'm a developer & innovator exploring the **intersection of software, hardware, and AI**.  
-
-- 🔍 Worked on **AI + IoT systems** (fire detection & suppression, Bluetooth robots).  
-- 🖥️ Built full-stack projects like my **React portfolio** and **Clicker Game**.  
-- ⚡ Hands-on with **Raspberry Pi** & **VLSI** during internships.  
-- 💡 Future-focused with projects like **Smart Military Assistant (Neural-linked AI for Soldiers)**.  
-- 🌐 Exploring opportunities in **AI research, hardware innovation, and next-gen applications**.  
+🎓 **BSc Computer Science | SRM Institute of Science and Technology**  
+💻 **Web Developer | IoT Innovator | AI & Future-Tech Enthusiast**  
+🚀 Exploring **VLSI, Raspberry Pi, and AI-driven defense projects**  
 
 ---
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-red.svg" width="100%">
+<h1 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
+
+<div align="left" style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    Hello! I'm a passionate tech enthusiast who thrives on building **real-world impactful projects**.  
+    My journey spans **AI, IoT, VLSI, Cybersecurity, and Full-Stack Development**.  
+
+    ### 🔍 Highlights:  
+    - 🌐 Creator of [Clicker Game](https://github.com/vishnuskandha/clicker-game) (React.js Web App) + Android port in progress  
+    - 🛡️ Built *Smart Military Assistant – A Neural-Linked ChatGPT for Every Soldier* (AI + Neural Interfaces for defense)  
+    - 🔥 Developed *Fire Detection & Suppression System* (Raspberry Pi + Arduino + Computer Vision)  
+    - 🚗 Created *Bluetooth Controlled Robot Car* (Dual Arduino + HC-05 + Joystick)  
+    - 🧑‍💻 Completed **TCS iON Cyber Suka Internship** & **30-day VLSI + Raspberry Pi Internship**  
+    - 🎓 Currently preparing for **IRDA IC38 Certification** and building advanced hardware–software integrations  
+  </div>
+  <div>
+    <img src="assets/2.gif" alt="About Me GIF" width="350" height="200">
+  </div>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%">
+
+---
 
 ## 🛠️ Skills & Expertise  
 
 ### 🔧 Programming Languages  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
 </p>
 
-### 🌐 Web & App Development  
+### 🌐 Web Development & Frameworks  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
 </p>
 
 ### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/2108916?s=200&v=4" alt="Vivado" width="40" height="40"/>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> </a>
 </p>
 
 ### 📊 Databases  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-</p>
-
-### 🤖 Hardware & IoT  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> </a>
 </p>
 
 ---
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-red.svg" width="100%">
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%">
+
+---
 
 ## 🚀 Featured Projects  
 
-### 🔥 Fire Detection & Automatic Suppression System  
-- **Raspberry Pi + Arduino + Computer Vision**  
-- Detects fire, tracks it with pan/tilt servo motors, and activates solenoid-based extinguisher.  
-- Combines **OpenCV, IoT hardware, and real-time response**.  
+### 🔹 [Clicker Game](https://github.com/vishnuskandha/clicker-game)  
+- React.js **web app** + upcoming **Android app** version  
+- Uses modern UI (GSAP animations, glowing text, blur effects)  
+- Focused on **gamification + fun engagement**  
 
-### 🚗 Bluetooth Controlled Robot Car  
-- **Arduino + HC-05 Bluetooth + Joystick**  
-- Dual Arduino setup for **transmitter & receiver**.  
-- Added solenoid & servo control with 500ms response time.  
+### 🔹 [Smart Military Assistant](https://github.com/vishnuskandha/my-india-project)  
+- AI + Neural link project for Indian defense  
+- Concepts: **Brain-Computer Interfaces, Emotional AI, On-field ChatGPT**  
+- Includes **report, survey, UI mockups, and conceptual diagrams**  
 
-### 🎮 Clicker Game (Web & Android)  
-- Built with **React.js**, extended to **Android app**.  
-- Features animations, modern UI with Tailwind, and **GSAP transitions**.  
-- [🔗 Live Demo](https://vishnuskandha.github.io)  
+### 🔹 [Fire Detection & Suppression System](https://github.com/vishnuskandha/fire-detection)  
+- Raspberry Pi + Arduino + Computer Vision  
+- Detects fire, tracks using servo pan/tilt, activates solenoid valve  
 
-### 🤖 Smart Military Assistant – Neural-linked AI  
-- A futuristic concept where every soldier has a **personal AI assistant**.  
-- Combines **BCI (Brain-Computer Interface), ChatGPT, and Emotional AI**.  
-- Designed report, conceptual diagrams, survey, and UI mockups.  
+### 🔹 [Bluetooth Robot Car](https://github.com/vishnuskandha/bluetooth-robot-car)  
+- Dual Arduino + L293D + HC-05 + Joystick control  
+- Supports relay + servo extensions  
 
 ---
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-red.svg" width="100%">
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-bar.svg" width="100%">
+
+---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff0000" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuskandha&background=000000&border=ffffff&stroke=ff0000&ring=ff0000&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000" alt="GitHub Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff0000" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuskandha&background=000000&border=ffffff&stroke=ff0000&ring=ff0000&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000" width="48%"/>
 </p>
 
 ---
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-red.svg" width="100%">
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%">
+
+---
 
 ## 📫 Let’s Connect  
 
-- 🌟 Explore my portfolio: [vishnuskandha.github.io](https://vishnuskandha.github.io)  
-- 💼 LinkedIn: [linkedin.com/in/vishnuskandha](https://linkedin.com/in/vishnuskandha)  
-- 📂 GitHub: [github.com/vishnuskandha](https://github.com/vishnuskandha)  
+- 🌟 Explore all my projects on GitHub!  
+- ✉️ Reach out – I’m always up for collaboration and innovation.  
 
 <p align="left">
-<a href="https://linkedin.com/in/vishnuskandha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/vishnuskandha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishnuskandha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://github.com/vishnuskandha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="center">“Code. Build. Innovate. Repeat.” 🚀</h3>
+<h3 align="center">⚡ “Code. Innovate. Inspire. Repeat.” ⚡</h3>
