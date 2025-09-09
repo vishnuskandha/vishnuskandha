@@ -4,8 +4,6 @@
 </p>
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there! I'm <b>Vishnu Skandha</b></h1>
-
 🎓 **B.Sc. Computer Science | 3rd Semester @ SRM**  
 💻 Passionate about **AI, IoT, VLSI, Web & App Development**  
 🚀 Always exploring **tech innovations, futuristic systems, and real-world applications**  
