@@ -5,12 +5,12 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
-  Hi there! I'm <span style="color:#ff0000">**Vishnu Skandha**</span>
+  Hi there! I'm <span style="color:#ff0000">Vishnu Skandha</span>
 </h1>
 
-🎓 **B.Sc. Computer Science | SRM | 3rd Semester**  
-💻 **Full-Stack & AI Enthusiast | IoT + Embedded Systems Explorer**  
-🚀 Passionate about **Building, Innovating & Problem-Solving**  
+🎓 B.Sc. Computer Science | SRM | 3rd Semester
+💻 Full-Stack & AI Enthusiast | IoT + Embedded Systems Explorer
+🚀 Passionate about Building, Innovating & Problem-Solving
 
 ---
 
@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
 </h2>
 
-- 🌐 Developer of **[My Portfolio](https://vishnuskandha.github.io/)** (React.js + Red/White Theme + GSAP Animations)  
+- 🌐 Developer of [My Portfolio](https://vishnuskandha.github.io/) (React.js + Red/White Theme + GSAP Animations)  
 - 🖥 Currently working on:  
   - **Clicker Game** → Web + Android App version  
   - **Smart Military Assistant** → Futuristic AI & Neural BCI concept  
