@@ -1,10 +1,11 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="assets/1.gif" width="1500" height="300">
+  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/banner-futuristic.svg" width="100%" height="320">
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there! I'm <b>Vishnu Skandha</b></h1>
 
+
+\
 🎓 **BSc Computer Science | SRM Institute of Science and Technology**  
 💻 **Web Developer | IoT Innovator | AI & Future-Tech Enthusiast**  
 🚀 Exploring **VLSI, Raspberry Pi, and AI-driven defense projects**  
