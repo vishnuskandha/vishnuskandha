@@ -69,7 +69,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%">
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%">
 
 ---
 
@@ -93,15 +93,11 @@
 - Dual Arduino + L293D + HC-05 + Joystick control  
 - Supports relay + servo extensions  
 
----
-
 <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-bar.svg" width="100%">
 
 ---
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%">
-
----
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%">
 
 ## 📫 Let’s Connect  
 
