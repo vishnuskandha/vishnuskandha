@@ -21,11 +21,10 @@
 
        🔍 Highlights:  
     - 🌐 Creator of [Clicker Game](https://github.com/vishnuskandha/clicker-game) (React.js Web App) + Android port in progress  
-    - 🛡️ Built *Smart Military Assistant – A Neural-Linked ChatGPT for Every Soldier* (AI + Neural Interfaces for defense)  
-    - 🔥 Developed *Fire Detection & Suppression System* (Raspberry Pi + Arduino + Computer Vision)  
-    - 🚗 Created *Bluetooth Controlled Robot Car* (Dual Arduino + HC-05 + Joystick)  
-    - 🧑‍💻 Completed **TCS iON Cyber Suka Internship** & **30-day VLSI + Raspberry Pi Internship**  
-    - 🎓 Currently preparing for **IRDA IC38 Certification** and building advanced hardware–software integrations  
+    - 🛡️ Built Smart Military Assistant – A Neural-Linked ChatGPT for Every Soldier (AI + Neural Interfaces for defense)  
+    - 🔥 Developed Fire Detection & Suppression System (Raspberry Pi + Arduino + Computer Vision)  
+    - 🚗 Created Bluetooth Controlled Robot Car (Dual Arduino + HC-05 + Joystick)  
+    - 🧑‍💻 Completed TCS iON Cyber Suka Internship & 30-day VLSI + Raspberry Pi Internship
   </div>
   <div>
     <img src="assets/2.gif" alt="About Me GIF" width="350" height="200">
