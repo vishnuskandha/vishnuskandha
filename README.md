@@ -16,10 +16,10 @@
 
 <div align="left" style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    Hello! I'm a passionate tech enthusiast who thrives on building **real-world impactful projects**.  
-    My journey spans **AI, IoT, VLSI, Cybersecurity, and Full-Stack Development**.  
+    Hello! I'm a passionate tech enthusiast who thrives on building real-world impactful projects.  
+    My journey spans AI, IoT, VLSI, Cybersecurity, and Full-Stack Development.  
 
-    ### 🔍 Highlights:  
+       🔍 Highlights:  
     - 🌐 Creator of [Clicker Game](https://github.com/vishnuskandha/clicker-game) (React.js Web App) + Android port in progress  
     - 🛡️ Built *Smart Military Assistant – A Neural-Linked ChatGPT for Every Soldier* (AI + Neural Interfaces for defense)  
     - 🔥 Developed *Fire Detection & Suppression System* (Raspberry Pi + Arduino + Computer Vision)  
