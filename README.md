@@ -62,7 +62,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM! ☕"
 <table>
   <tr>
     <td>🌐</td>
-    <td>Creator of <a href="https://github.com/vishnuskandha/clicker-game">Clicker Game</a> - React.js Web App with Android port in progress</td>
+    <td>Creator of <a href="https://github.com/vishnuskandha/clicker-game-react">Clicker Game</a> - React.js Web App with Android port in progress</td>
   </tr>
   <tr>
     <td>🛡️</td>
@@ -202,7 +202,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM! ☕"
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎮 **[Clicker Game](https://github.com/vishnuskandha/clicker-game)** | React.js web app with GSAP animations & Android port | `React.js` `GSAP` `CSS3` |
+| 🎮 **[Clicker Game](https://github.com/vishnuskandha/clicker-game-react)** | React.js web app with GSAP animations & Android port | `React.js` `GSAP` `CSS3` |
 | 🛡️ **[Smart Military Assistant](https://github.com/vishnuskandha/my-india-project)** | AI + Neural link project for Indian defense | `Python` `AI/ML` `Neural Networks` |
 | 🔥 **[Fire Detection System](https://github.com/vishnuskandha/fire-detection)** | Real-time fire detection with auto-suppression | `Raspberry Pi` `OpenCV` `Arduino` |
 | 🚗 **[Bluetooth Robot Car](https://github.com/vishnuskandha/bluetooth-robot-car)** | Dual Arduino controlled robot with HC-05 | `Arduino` `C++` `Bluetooth` |
