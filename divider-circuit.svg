@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 50">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="15%" stop-color="#ff1a1a"/>
+      <stop offset="50%" stop-color="#ff4444"/>
+      <stop offset="85%" stop-color="#ff1a1a"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Main circuit line -->
+  <line x1="0" y1="25" x2="1440" y2="25" stroke="url(#lineGrad)" stroke-width="2" filter="url(#glow)"/>
+  <!-- Circuit nodes -->
+  <circle cx="120" cy="25" r="5" fill="#ff1a1a" filter="url(#glow)"/>
+  <circle cx="360" cy="25" r="5" fill="#ff3333" filter="url(#glow)"/>
+  <circle cx="720" cy="25" r="7" fill="#ff4444" filter="url(#glow)"/>
+  <circle cx="1080" cy="25" r="5" fill="#ff3333" filter="url(#glow)"/>
+  <circle cx="1320" cy="25" r="5" fill="#ff1a1a" filter="url(#glow)"/>
+  <!-- Small tick marks -->
+  <g stroke="#ff222240" stroke-width="1">
+    <line x1="240" y1="20" x2="240" y2="30"/>
+    <line x1="480" y1="20" x2="480" y2="30"/>
+    <line x1="600" y1="20" x2="600" y2="30"/>
+    <line x1="840" y1="20" x2="840" y2="30"/>
+    <line x1="960" y1="20" x2="960" y2="30"/>
+    <line x1="1200" y1="20" x2="1200" y2="30"/>
+  </g>
+  <!-- Animated pulse -->
+  <circle r="4" fill="#ff6666" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath href="#tracePath"/>
+    </animateMotion>
+  </circle>
+  <path id="tracePath" d="M0,25 L1440,25" fill="none"/>
+</svg>
