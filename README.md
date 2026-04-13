@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/banner-futuristic.svg" width="100%" alt="Vishnu Skandha Banner"/>
+  <img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/banner-futuristic.svg" width="100%" alt="Vishnu Skandha Banner"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-circuit.svg" width="100%"/>
 
 ---
 
@@ -61,7 +61,7 @@ philosophy  : "Code. Innovate. Inspire. Repeat."
 fun_fact    : "Debugs better at 2 AM than 2 PM ☕"
 ```
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-wave.svg" width="100%"/>
 
 ---
 
@@ -137,7 +137,7 @@ fun_fact    : "Debugs better at 2 AM than 2 PM ☕"
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-circuit.svg" width="100%"/>
 
 ---
 
@@ -160,7 +160,7 @@ fun_fact    : "Debugs better at 2 AM than 2 PM ☕"
   <img src="https://github-profile-trophy.vercel.app/?username=vishnuskandha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-wave.svg" width="100%"/>
 
 ---
 
@@ -207,7 +207,7 @@ fun_fact    : "Debugs better at 2 AM than 2 PM ☕"
 
 </details>
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-circuit.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-circuit.svg" width="100%"/>
 
 ---
 
@@ -257,7 +257,7 @@ fun_fact    : "Debugs better at 2 AM than 2 PM ☕"
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/assets/divider-wave.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vishnuskandha/vishnuskandha/main/divider-wave.svg" width="100%"/>
 
 ---
 
