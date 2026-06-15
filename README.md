@@ -28,11 +28,27 @@ Full-stack Web Development • Software Architecture • Open Source Development
 
 ---
 
+## Featured Projects
+
+**[locallm-chat](https://github.com/vishnuskandha/locallm-chat)** — A cyber-style, web-based HTML chat UI for local LLMs in LM Studio, featuring streaming responses, connection testing, token stats, and zero-build setup.
+
+**[CodeGenome](https://github.com/vishnuskandha/CodeGenome)** — Multi-dimensional repository analysis with Git history, quality scoring, security analysis and AI-powered insights.
+
+**[esp32_website](https://github.com/vishnuskandha/esp32_website)** — ESP32 Neon Control Center: A futuristic, high-performance IoT dashboard featuring Neon Glass morphism UI, real-time bi-directional control, and live activity logging. Built with Next.js 14 and Tailwind CSS.
+
+---
+
+## Tools & Projects
+
+Building AI-powered coding assessment tools that combine local LLM APIs with integrated hardware and software solutions to provide intelligent, real-time code evaluation and insights.
+
+---
+
 ## Let's Connect
 
-| GitHub | LinkedIn | Email |
-| :-------: | :---------: | :------: |
-| [@vishnuskandha](https://github.com/vishnuskandha) | [linkedin.com/in/vishnuskandha](https://linkedin.com/in/vishnuskandha) | [contact@example.com](mailto:contact@example.com) |
+| LinkedIn | Portfolio |
+| :---------: | :------: |
+| [linkedin.com/in/vishnuskandha](https://linkedin.com/in/vishnuskandha) | [vishnuskandhagithubio.vercel.app](https://vishnuskandhagithubio.vercel.app/) |
 
 ---
 
