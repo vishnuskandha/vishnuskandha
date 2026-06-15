@@ -1,87 +1,39 @@
-# 👋 Welcome to My GitHub Profile
+# Hi, I'm Vishnu Skandha
 
-Hi, I'm **Vishnu Skandha** – a passionate developer and technology enthusiast committed to building innovative solutions and contributing to the open-source community.
-
----
-
-## 🎯 About Me
-
-I'm dedicated to creating clean, efficient code and fostering collaborative development environments. With expertise spanning multiple technologies and frameworks, I focus on solving complex problems and delivering high-quality solutions.
-
-- 🚀 **Passionate Developer** – Building scalable and maintainable applications
-- 💡 **Problem Solver** – Tackling challenges with creative and pragmatic approaches
-- 🔗 **Open Source Advocate** – Contributing to and supporting community-driven projects
-- 📚 **Lifelong Learner** – Staying current with emerging technologies and best practices
+Passionate developer building scalable solutions and contributing to open source. I focus on clean code, collaborative development, and solving complex problems with pragmatic approaches.
 
 ---
 
-## 🛠️ Technical Skills
+## What I Do
 
-**Languages & Platforms:**
-- JavaScript/TypeScript
-- Python
-- Java
-- HTML/CSS
-- And more...
-
-**Tools & Technologies:**
-- Git & GitHub
-- REST APIs
-- Database Design
-- CI/CD Pipelines
-- Cloud Platforms
-
-**Specializations:**
-- Full-stack Web Development
-- Software Architecture
-- Open Source Development
-- GitHub Configuration & Automation
+- Build full-stack web applications
+- Design scalable software architecture
+- Contribute to open-source projects
+- Collaborate on innovative ideas
 
 ---
 
-## 🌟 What I Do
+## Tech Stack
 
-- ✅ **Write Clean Code** – Following best practices and industry standards
-- ✅ **Collaborate Effectively** – Working seamlessly with teams across projects
-- ✅ **Build Solutions** – From concept to deployment and maintenance
-- ✅ **Share Knowledge** – Contributing documentation and insights to the community
-
----
-
-## 📊 Repository Highlights
-
-This profile repository showcases my GitHub configuration, preferences, and profile customization.
-
-**Topics:** 
-- `github-config` – GitHub configuration & best practices
-- `github-profile` – Profile optimization and documentation
+**Languages:** JavaScript • TypeScript • Python • Java  
+**Frontend:** React • Next.js • HTML/CSS  
+**Backend:** Node.js • REST APIs • Database Design  
+**Tools:** Git • GitHub • CI/CD • Cloud Platforms
 
 ---
 
-## 📫 Get in Touch
+## Areas of Expertise
 
-Feel free to reach out for collaboration, questions, or discussions:
-
-- **GitHub:** [@vishnuskandha](https://github.com/vishnuskandha)
-- **Repository:** [vishnuskandha/vishnuskandha](https://github.com/vishnuskandha/vishnuskandha)
+Full-stack Web Development • Software Architecture • Open Source Development • GitHub Automation
 
 ---
 
-## 🤝 Open to Collaboration
+## Let's Connect
 
-I'm always interested in:
-- 💼 Open source projects and contributions
-- 🎓 Knowledge sharing and mentoring
-- 🔧 Technical discussions and code reviews
-- 🚀 Innovative projects and ideas
+| GitHub | LinkedIn | Email |
+| :-------: | :---------: | :------: |
+| [@vishnuskandha](https://github.com/vishnuskandha) | [linkedin.com/in/vishnuskandha](https://linkedin.com/in/vishnuskandha) | [contact@example.com](mailto:contact@example.com) |
 
 ---
 
-## 📈 Let's Build Together
-
-Whether you're looking to collaborate on a project, discuss technology, or explore new ideas, I'd love to connect! Feel free to check out my repositories and don't hesitate to open issues or pull requests.
-
----
-
-**Last Updated:** June 2026  
-*Keep coding, keep learning, keep growing!* 🚀
+Keep coding, keep learning, keep growing!
