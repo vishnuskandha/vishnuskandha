@@ -1,3 +1,5 @@
+<img src="banner-futuristic.svg" alt="Vishnu Skandha banner">
+
 <div align="center">
 
 # Vishnu Skandha
@@ -12,15 +14,13 @@ Chennai, India · BSc Computer Science, SRM Institute of Science and Technology
 
 </div>
 
----
+<img src="divider-circuit.svg" alt="Circuit divider">
 
 ## About
 
 I build systems that sit at the intersection of software, hardware, and AI — blockchain-anchored identity platforms, embedded sensor networks, and computer vision pipelines. Most of my work ships end-to-end: contract to frontend, sensor to dashboard, model to inference.
 
 Currently building **CO-PE**, a psychometric career-assessment platform, in partnership with my father through our consulting practice. Currently exploring neuro-inspired navigation for embedded robotics and continuous AI/IoT monitoring for agriculture.
-
----
 
 ## Projects
 
@@ -66,8 +66,6 @@ Repository intelligence CLI. Analyzes git history for commit patterns and hotspo
 
 </details>
 
----
-
 ## Stack
 
 | | |
@@ -81,8 +79,6 @@ Repository intelligence CLI. Analyzes git history for commit patterns and hotspo
 | **Blockchain** | Solidity, Hardhat, ERC-721, Polygon |
 | **Infra** | Linux, Docker, Git, Vercel |
 
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -92,7 +88,7 @@ Repository intelligence CLI. Analyzes git history for commit patterns and hotspo
 
 </div>
 
----
+<img src="divider-wave.svg" alt="Wave divider">
 
 <div align="center">
 
