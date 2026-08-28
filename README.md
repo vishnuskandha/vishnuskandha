@@ -1,99 +1,52 @@
-<img src="banner-futuristic.svg" alt="Vishnu Skandha banner">
-
-<div align="center">
-
 # Vishnu Skandha
 
-**Full-Stack Developer · IoT Engineer · AI/ML Builder**
+**Junior Software Developer @ Bacsys** · Full-Stack · IoT Engineer · AI/ML Builder
+Coimbatore, Tamil Nadu, India · BSc Computer Science, SRM Institute of Science and Technology
 
-Chennai, India · BSc Computer Science, SRM Institute of Science and Technology
-
-[![Email](https://img.shields.io/badge/-vishnu.skandha%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnu.skandha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnuskandha)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=vercel&logoColor=white)](https://vishnuskandha.qzz.io)
-
-</div>
-
-<img src="divider-circuit.svg" alt="Circuit divider">
+[Email](mailto:vishnu.skandha@gmail.com) · [LinkedIn](https://linkedin.com/in/vishnuskandha) · [Portfolio](https://vishnuskandha.qzz.io)
 
 ## About
 
-I build systems that sit at the intersection of software, hardware, and AI — blockchain-anchored identity platforms, embedded sensor networks, and computer vision pipelines. Most of my work ships end-to-end: contract to frontend, sensor to dashboard, model to inference.
+I build systems across software, hardware, and AI — blockchain-anchored identity platforms, embedded sensor networks, computer vision pipelines. Most projects ship end-to-end: contract to frontend, sensor to dashboard, model to inference.
 
-Currently building **CO-PE**, a psychometric career-assessment platform, in partnership with my father through our consulting practice. Currently exploring neuro-inspired navigation for embedded robotics and continuous AI/IoT monitoring for agriculture.
+Currently at **Bacsys**, building embedded systems in Rust. Also building **CO-PE**, a psychometric career-assessment platform, with my father through our consulting practice.
+
+## Experience
+
+- **Junior Software Developer**, Bacsys — Aug 2026–Present · Rust, Embedded Software
+- **PRAYAS 4.0 (AI, IoT & Robotics)**, IIT Mandi — Jun–Jul 2026 · Robo Soccer competition winner
+- **VLSI & Raspberry Pi Intern / Project Associate**, Pantech ProEd — Aug 2025–Mar 2026 · 11 projects, VHDL/Verilog/FPGA, embedded IoT
+- **Junior Web Development Intern**, Srilok Technologies — Jun–Jul 2025 · React, WordPress
+- **Data Science Intern**, Eagle-HiTech Softclou — Jan 2025 · Python, SQL, data analysis
+- **Web Development Intern**, Talent Takeaways Infotech — Nov 2024–Jan 2025 · React.js, Next.js, HRMS
 
 ## Projects
 
-### [TrustDegree](https://github.com/vishnuskandha/TrustDegree)
-Decentralized academic credential verification. Institutions issue diplomas as soulbound (non-transferable) ERC-721 tokens; anyone verifies authenticity in seconds via QR scan — no registrar calls, no gatekeeping.
+**[TrustDegree](https://github.com/vishnuskandha/TrustDegree)** — Decentralized academic credential verification using soulbound ERC-721 tokens. QR-scan verification, no registrar calls. `Solidity` `Hardhat` `React` `PostgreSQL` · [Live](https://trustdegree.vercel.app)
 
-`Solidity` `Hardhat` `OpenZeppelin` `React` `TypeScript` `Node.js` `Express` `PostgreSQL`
+**[Arduino & Raspberry Pi Project Suite](https://github.com/vishnuskandha/arduino-rpi-projects)** — 19 embedded systems projects: fire detection with servo suppression, RFID access control, obstacle-avoidance robotics, MQTT telemetry, ESP32 air-quality dashboard. `Arduino` `ESP32` `MQTT`
 
-Live: [trustdegree.vercel.app](https://trustdegree.vercel.app)
+**[BehaviourAI](https://github.com/vishnuskandha/Behaviour.ai)** — Customer behavior analytics: Random Forest + K-Means behind a Flask API, live prediction and retraining. `Flask` `scikit-learn`
 
-### [Arduino & Raspberry Pi Project Suite](https://github.com/vishnuskandha/arduino-rpi-projects)
-Nineteen embedded systems projects, each with circuit diagrams and full documentation: automated fire detection with servo-controlled suppression, RFID-based access control, ultrasonic obstacle-avoidance robotics, MQTT sensor telemetry, ESP32 air-quality monitoring with a live web dashboard.
+**[AirNav](https://github.com/vishnuskandha/AirNav)** — Hands-free PC control via webcam gesture recognition, real-time MediaPipe tracking. `Python` `MediaPipe` `OpenCV`
 
-`Arduino` `ESP32` `Raspberry Pi` `Python` `MQTT` `C++`
+**[CodeGenome](https://github.com/vishnuskandha/CodeGenome)** — Repo intelligence CLI: commit hotspots, code quality scoring, CVE scanning mapped to OWASP Top 10. `Python` `GitPython`
 
-### [BehaviourAI](https://github.com/vishnuskandha/Behaviour.ai)
-Customer behavior analytics platform. Random Forest classification and K-Means clustering behind a Flask REST API — live prediction, on-demand model retraining, and aggregate trend reporting.
-
-`Flask` `scikit-learn` `Python` `Gunicorn`
-
-### [AirNav](https://github.com/vishnuskandha/AirNav)
-Hands-free PC control via webcam-based hand-gesture recognition. Real-time MediaPipe landmark tracking mapped to cursor and system commands.
-
-`Python` `MediaPipe` `OpenCV`
-
-### [CodeGenome](https://github.com/vishnuskandha/CodeGenome)
-Repository intelligence CLI. Analyzes git history for commit patterns and hotspots, scores code quality (documentation coverage, complexity, naming), scans dependencies for known CVEs, and maps findings to OWASP Top 10 categories.
-
-`Python` `GitPython` `pylint` `radon`
-
-<details>
-<summary><strong>More projects</strong></summary>
-<br>
-
-**Full-Stack / Web**
-- [LocalLM Chat](https://github.com/vishnuskandha/locallm-chat) — zero-build streaming chat UI for local LLMs via LM Studio
-
-**IoT / Embedded** — all within the [Arduino & RPi Suite](https://github.com/vishnuskandha/arduino-rpi-projects)
-- Fire detection & suppression · RFID access control · ESP32 air-quality monitor · MQTT temperature logger · weather station · Bluetooth-controlled robot
-
-**Computer Vision**
-- [LiveCam Detection](https://github.com/vishnuskandha/LiveCam_Dectection) — real-time YOLOv13 object detection, cross-platform
-
-</details>
+More: [LocalLM Chat](https://github.com/vishnuskandha/locallm-chat) (local LLM chat UI) · [LiveCam Detection](https://github.com/vishnuskandha/LiveCam_Dectection) (real-time YOLOv13 detection)
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | Python, JavaScript, TypeScript, C, C++, Java |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Express, Flask |
-| **Data** | PostgreSQL, MySQL |
-| **AI/ML** | PyTorch, TensorFlow, OpenCV, YOLO, scikit-learn |
-| **Embedded** | ESP32, Arduino, Raspberry Pi, MQTT, GPIO/I2C/SPI |
-| **Blockchain** | Solidity, Hardhat, ERC-721, Polygon |
-| **Infra** | Linux, Docker, Git, Vercel |
+Languages: Python, JavaScript, TypeScript, C, C++, Java
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express, Flask
+Data: PostgreSQL, MySQL
+AI/ML: PyTorch, TensorFlow, OpenCV, YOLO, scikit-learn
+Embedded: ESP32, Arduino, Raspberry Pi, MQTT
+Blockchain: Solidity, Hardhat, ERC-721, Polygon
+Infra: Linux, Docker, Git, Vercel
 
-## GitHub Activity
+---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ff1a1a&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuskandha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9)
-
-</div>
-
-<img src="divider-wave.svg" alt="Wave divider">
-
-<div align="center">
-
-Open to internships, collaborations, and full-time roles in AI, IoT, and full-stack engineering.
+Open to collaborations in AI, IoT, and full-stack engineering.
 
 [LinkedIn](https://linkedin.com/in/vishnuskandha) · [Portfolio](https://vishnuskandha.qzz.io) · [Email](mailto:vishnu.skandha@gmail.com)
-
-</div>
