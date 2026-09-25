@@ -1,5 +1,15 @@
 # Vishnu Skandha
 
+
+<!-- README polish: repository metadata badges -->
+<p>
+  <a href="https://github.com/vishnuskandha/vishnuskandha"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishnuskandha/vishnuskandha?style=for-the-badge&logo=github&label=Stars"></a>
+  <a href="https://github.com/vishnuskandha/vishnuskandha/fork"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishnuskandha/vishnuskandha?style=for-the-badge&logo=github&label=Forks"></a>
+  <a href="https://github.com/vishnuskandha/vishnuskandha/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vishnuskandha/vishnuskandha?style=for-the-badge&logo=github&label=Issues"></a>
+  <a href="https://github.com/vishnuskandha/vishnuskandha/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/vishnuskandha/vishnuskandha?style=for-the-badge&logo=git&label=Updated"></a>
+</p>
+<!-- End README polish -->
+
 **Junior Software Developer @ Bacsys** · Full-Stack · IoT Engineer · AI/ML Builder
 Coimbatore, Tamil Nadu, India · BSc Computer Science, SRM Institute of Science and Technology
 
