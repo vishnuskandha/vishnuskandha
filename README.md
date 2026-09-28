@@ -8,7 +8,7 @@ Building practical software at the intersection of **embedded systems, intellige
 
 [Portfolio](https://vishnuskandha.qzz.io) · [LinkedIn](https://www.linkedin.com/in/vishnuskandha/) · [Email](mailto:vishnu.skandha@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=vishnuskandha&style=flat&color=blue" alt="Profile views"> <img src="https://img.shields.io/github/followers/vishnuskandha?label=Followers&style=flat&logo=github" alt="GitHub followers">
+[GitHub](https://github.com/vishnuskandha) · [Repositories](https://github.com/vishnuskandha?tab=repositories) · [Activity](https://github.com/vishnuskandha?tab=overview)
 
 </div>
 
@@ -54,11 +54,13 @@ I'm a computer science graduate from **SRM Institute of Science and Technology**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuskandha&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuskandha&layout=compact&hide_border=true" alt="Most used languages">
+| 25 public repositories | Primary focus | GitHub profile |
+|:---:|:---:|:---:|
+| **25** | **AI · Embedded · IoT · Full-Stack** | [@vishnuskandha](https://github.com/vishnuskandha) |
+
+[Explore repositories →](https://github.com/vishnuskandha?tab=repositories) · [View contributions →](https://github.com/vishnuskandha?tab=overview)
 
 </div>
-
 ---
 
 <div align="center">
