@@ -22,6 +22,28 @@ I'm a computer science graduate from **SRM Institute of Science and Technology**
 - **Exploring:** Embedded Linux, Rust, edge AI, computer vision, and connected systems.
 - **Building:** CO-PE, a psychometric career-assessment platform, alongside software and hardware projects.
 
+## LinkedIn profile
+
+<div align="center">
+
+**Vishnu Skandha** · Software / Embedded / AI Engineering
+
+[View LinkedIn profile →](https://www.linkedin.com/in/vishnuskandha/)
+
+</div>
+
+The public LinkedIn profile currently lists **Bacsys** as the current experience and **SRM Institute of Science and Technology – Vadapalani Campus** as the undergraduate education. It highlights work spanning **AI/ML, IoT, embedded systems, robotics, computer vision, full-stack software, and blockchain**.
+
+### Selected LinkedIn projects
+
+- **AI-Powered ArUco Based Waste Segregation Robot** — computer vision, classification, robotics control, and a monitoring interface.
+- **Autonomous Navigation Robot** — ESP32 + Raspberry Pi Zero 2 W, encoder/IMU odometry, laser scanning, obstacle avoidance, and path tracing.
+- **EMG-Controlled Prosthetic Robotic Hand** — EMG signal processing, gesture classification, and multi-servo actuation.
+- **IoT Pipeline Leak Detection & Localization** — ESP32 nodes, RS485/Modbus, sensor fusion, FastAPI, and real-time analytics.
+- **IoT-Driven Smart Aeroponics** — Raspberry Pi 5 + ESP32 sensing/actuation with ML-based plant-health monitoring.
+- **BLE Attendance System** — ESP32/BLE identification, computer-vision ID validation, Node.js, and Redis.
+- **Handheld Sign Language Translator** — MediaPipe/OpenCV gesture recognition with on-device inference and text-to-speech.
+
 ## Selected projects
 
 | Project | What it does | Technologies |
