@@ -39,9 +39,9 @@ The public LinkedIn profile currently lists **Bacsys** as the current experience
 - **AI-Powered ArUco Based Waste Segregation Robot** — computer vision, classification, robotics control, and a monitoring interface.
 - **Autonomous Navigation Robot** — ESP32 + Raspberry Pi Zero 2 W, encoder/IMU odometry, laser scanning, obstacle avoidance, and path tracing.
 - **EMG-Controlled Prosthetic Robotic Hand** — EMG signal processing, gesture classification, and multi-servo actuation.
-- **IoT Pipeline Leak Detection & Localization** — ESP32 nodes, RS485/Modbus, sensor fusion, FastAPI, and real-time analytics.
+- **[IoT Pipeline Leak Detection & Localization](https://github.com/vishnuskandha/IoT-Pipeline-Leak-Detection)** — ESP32 nodes, RS485/Modbus, sensor fusion, FastAPI, and real-time analytics.
 - **IoT-Driven Smart Aeroponics** — Raspberry Pi 5 + ESP32 sensing/actuation with ML-based plant-health monitoring.
-- **BLE Attendance System** — ESP32/BLE identification, computer-vision ID validation, Node.js, and Redis.
+- **[BLE Attendance System](https://github.com/vishnuskandha/BLE-Attendance-system)** — ESP32/BLE identification, computer-vision ID validation, Node.js, and Redis.
 - **Handheld Sign Language Translator** — MediaPipe/OpenCV gesture recognition with on-device inference and text-to-speech.
 
 ## Selected projects
