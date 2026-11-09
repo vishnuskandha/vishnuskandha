@@ -16,7 +16,7 @@ Building practical software at the intersection of **embedded systems, intellige
 
 ## About
 
-I'm a computer science graduate from **SRM Institute of Science and Technology** based in Coimbatore, Tamil Nadu. I enjoy taking projects from concept to working implementation—from firmware talking to sensors, to ML models exposed through APIs, to full-stack products.
+I'm a computer science graduate from **SRM Institute of Science and Technology**, currently working in Coimbatore, Tamil Nadu. I enjoy taking projects from concept to working implementation—from firmware talking to sensors, to ML models exposed through APIs, to full-stack products.
 
 - **Currently:** Junior Software Developer at Bacsys, working on embedded software.
 - **Exploring:** Embedded Linux, Rust, edge AI, computer vision, and connected systems.
@@ -76,9 +76,9 @@ The public LinkedIn profile currently lists **Bacsys** as the current experience
 
 <div align="center">
 
-| 25 public repositories | Primary focus | GitHub profile |
+| 26 public repositories | Primary focus | GitHub profile |
 |:---:|:---:|:---:|
-| **25** | **AI · Embedded · IoT · Full-Stack** | [@vishnuskandha](https://github.com/vishnuskandha) |
+| **26** | **AI · Embedded · IoT · Full-Stack** | [@vishnuskandha](https://github.com/vishnuskandha) |
 
 [Explore repositories →](https://github.com/vishnuskandha?tab=repositories) · [View contributions →](https://github.com/vishnuskandha?tab=overview)
 
